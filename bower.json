@@ -1,0 +1,21 @@
+{
+  "name": "kugram",
+  "homepage": "https://github.com/ugurk/kugram",
+  "authors": [
+    "kugram team"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
